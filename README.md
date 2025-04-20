@@ -1,5 +1,5 @@
 <!--![logo](https://github.com/salihhashmi99/salihhashmi99/blob/main/Github%20Banner.png)-->
-<img src="https://github.com/salihhashmi99/salihhashmi99/blob/main/Github%20Banner.png?raw=true" alt="GitHub Banner" style="width:100%;" />
+<img src="https://github.com/AppiumLogicsSolutions/AppiumLogicsSolutions/blob/main/Frame%209.png" alt="GitHub Banner" style="width:100%;" />
 <h1 align="center">Hi 👋, Welcome to Appium Logics Solutions</h1>
 <h3 align="center">A Software Company that provides Logic in Every Line, Solutions in Every Byte.</h3>
 
