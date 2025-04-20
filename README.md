@@ -43,9 +43,9 @@
 <h3 align="left">Profile Summary and Stats</h3>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AppiumLogicsSolutions&show_icons=true&locale=en&layout=compact" alt="Top Langs" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=AppiumLogicsSolutions&show_icons=true&locale=en" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=AppiumLogicsSolutions" alt="Streak Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=salihhahsmi99&show_icons=true&locale=en&layout=compact" alt="Top Langs" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=salihhahsmi99&show_icons=true&locale=en" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=salihhahsmi99" alt="Streak Stats" /></td>
   </tr>
 </table>
 
